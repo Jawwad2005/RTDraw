@@ -1,0 +1,12 @@
+.DS_Store
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+server/db.sqlite3
+
+# JavaScript
+node_modules/
+dist/
